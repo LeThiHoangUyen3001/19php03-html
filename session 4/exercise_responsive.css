@@ -1,0 +1,21 @@
+
+@media only screen and (max-width: 320px) {
+    #left, #center, #right {
+    	float: none;
+        width: 100%;
+}
+
+@media only screen and (max-width: 600px) {
+    #left, #center, #right {
+    	float: none;
+        width: 100%;
+        background: orange;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    #left, #center, #right {
+    	float: none;
+        width: 100%;
+    }
+}

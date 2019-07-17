@@ -1,0 +1,30 @@
+#body {
+	height:  600px;
+	width:  700px;
+	border: 2px dotted black ;
+}
+#main {
+	height:  500px;
+	width:  600px;
+	border:  2px solid black;
+	padding: 20px;
+	margin: 30px;
+}
+#content{
+height: 200px;
+width: 500px;
+border:  2px dotted  black;
+padding: 20px;
+margin: 30px;
+text-align: center;
+}
+
+#center {
+height: 100px;
+width: 500px;
+border:  2px dotted black;
+padding: 20px;
+margin:  30px;
+text-align: center;
+
+}

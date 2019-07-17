@@ -1,0 +1,26 @@
+#left {
+	width: 30%;
+	float: left;
+	border: black;
+	background: blue;
+	text-align: center;
+}
+
+#center {
+	width: 30%;
+	float: left;
+	border: black;
+	background: green;
+	text-align: center;
+}
+
+#right {
+	width: 29%;
+	float: left;
+	border: black;
+	background: red;
+	text-align: center;
+}
+
+
+

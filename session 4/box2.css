@@ -1,0 +1,22 @@
+#main {
+	height:  600px;
+	width: 450px;
+	border: 2px solid black;
+}
+
+#line1 {
+	height:  19%px;
+	width: 400px;
+	text-align: left;
+	padding: 10px ;
+	margin: auto;
+}
+
+#line2, #line3, #line4, #line5{
+	height: 19%;
+	width: 400px;
+	border: 2px solid blue;
+	text-align: left;
+	padding: 10px ;
+	margin: auto;
+}

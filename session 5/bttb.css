@@ -1,0 +1,46 @@
+#header img {
+	float: left;
+	height: 50px;
+	width: 100px;
+}
+#header h1 {
+    height: 75%;
+    width: 600px;
+    line-height: 10px;
+    text-shadow: 3px 2px 1px black;
+    float: center;
+    text-align: center;
+    color: orange;
+}
+#header h3 {
+	height: 25%;
+	color: green;
+	float: center;
+	line-height: 10px;
+	text-indent: 70px;
+}
+#body {
+	font-family: Arial, Helvetica;
+	height: 400px;
+	width: 800px;
+}
+#body h2 {
+	font-family: Arial, Helvetica;
+	font-size: 150%
+	line-height: 100px;
+}
+#line {
+	text-decoration: underline;
+}
+#a: link {
+	color: green;
+}
+#sentence {
+	text-indent: 50px;
+	text-align: justify;
+}
+#footer {
+	width: 700px;
+	text-align: right;
+	font-size: 15px;
+}
