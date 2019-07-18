@@ -1,11 +1,11 @@
-#main{
+#main {
     width: 1000px;
     padding: 0;
     margin-left: auto;
     margin-right: auto;
 }
 
-#header{
+#header {
     height: 100px;
     line-height: 100px;
     width: 1000px;
@@ -14,18 +14,19 @@
     text-align: center;
 }
 
-#center{
+#center {
     height: 300px;
     line-height: 300px;
     width: 1000px;
     margin-left: auto;
     margin-right: auto;
     border: 1px solid black;
-    background: pink;
+    background: pink !important;
+    /*không thay đổi*/
     text-align: center;
 }
 
-#left{
+#left {
     width: 200px;
     line-height: 300px;
     float: left;
@@ -34,7 +35,7 @@
     text-align: center;
 }
 
-#right{
+#right {
     width: 200px;
     line-height: 300px;
     float: right;
@@ -43,14 +44,14 @@
     text-align: center;
 }
 
-#content{
+#content {
     width: 1000px;
     height:  300px;
     background: pink;
     text-align: center;
 }
 
-#pre-body{
+#pre-body {
     height: 33%;
     width: 1000px;
     border: 1px solid black;
@@ -58,7 +59,7 @@
     line-height: 100px;
 }
 
-#body-content{
+#body-content {
     height: 33%;
     width: 1000px;
     border: 1px solid black;
@@ -66,7 +67,7 @@
     line-height: 100px;
 }
 
-#post-body{
+#post-body {
     height: 33%;
     width: 1000px;
     border: 1px solid black;

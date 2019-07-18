@@ -25,14 +25,13 @@
 	width: 800px;
 }
 #body h2 {
-	font-family: Arial, Helvetica;
 	font-size: 150%
 	line-height: 100px;
 }
 #line {
 	text-decoration: underline;
 }
-#a: link {
+#date1, #date2, #date3, #date4 {
 	color: green;
 }
 #sentence {
