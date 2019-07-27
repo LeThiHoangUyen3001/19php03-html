@@ -1,0 +1,16 @@
+#h1 {
+	text-align: center;
+	float: center;
+}
+table {
+	border: 1px solid black;
+	width: 500px;
+	border-collapse: collapse;
+	margin: auto;
+}
+td, th {
+	border: 1px solid black;
+}
+thead, tfoot {
+	background: pink;
+}

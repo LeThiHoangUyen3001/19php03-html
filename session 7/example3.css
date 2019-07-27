@@ -1,0 +1,49 @@
+#content {
+	width: 600px
+	height: 100px;
+	box-shadow: 5px 5px 5px;
+	float: left;
+}
+h2 {
+	float: left:;
+}
+ul {
+	list-style-type: none;
+	margin: 25px 25px 25px 25px;
+}
+ul li {
+	width: 200px;
+	margin: 0em 0.5em 0.5em 0em;
+	float: left;
+}
+ul li a {
+	text-align: center;
+	display: inline-block;
+	width: 175px;
+	padding: 1em;
+	background-color: white;
+	font-weight: bold;
+	color: blue;
+	border: 2px solid black;
+	border-right: none;
+	border-right: none;
+}
+ul li a.current {
+	text-decoration: none;
+}
+ul li b {
+	text-align: center;
+	display: inline-block;
+	width: 175px;
+	padding: 1em;
+	background-color: blue;
+	font-weight: bold;
+	color: white;
+	border: 2px solid white;
+	border-right: none;
+	text-decoration: none;
+}
+ul li b.lastitem {
+	border right: none;
+	color: yellow;
+}
