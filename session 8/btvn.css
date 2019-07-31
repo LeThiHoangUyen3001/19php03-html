@@ -1,0 +1,113 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+body {
+	background-image: linear-gradient(to bottom, #ada, orange);
+}
+#container {
+	width: 90%;
+	height: 90%;
+	margin: 20px 20px 20px 20px;
+	border: 1px solid black;
+	box-shadow: 2px 4px 6px gray;
+	background-color: white;
+	border-radius: 20px;
+}
+#header, #content, #footer {
+	margin: 10px;
+	padding: 10px;
+}
+#header {
+	border-bottom: 2px solid orange;
+}
+img {
+	float: left;
+	box-shadow: 2px 4px 6px grey;
+	width: 80px;
+	height: 50px;
+	margin: 5px 5px 5px 5px;
+}
+#sentence {
+	margin-left: 80px;
+	padding-left: 10px;
+}
+h1 {
+	color: yellow;
+	text-shadow: 4px 3px 2px black;
+	margin-left: 100px;
+}
+h3 {
+	color: green;
+	font-size: 25px;
+	margin-left: 100px;
+}
+h4 {
+	font-size: 150%;
+}
+#menu {
+	height: 20px;
+	margin-left: : 10px;
+	padding: 5px;
+	border-bottom: 2px solid orange;
+}
+#menu ul {
+	list-style-type: none;
+	padding: 0px;
+	margin: auto;
+}
+#menu ul li {
+	display: inline;
+	border-right: 2px solid orange;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+#menu ul li a {
+	text-decoration: none;
+	font-weight: bold;
+	color: green;
+}
+#menu ul li a:hover {
+	color: pink;
+}
+#menu ul li a:hover, a:focus {
+font-size: 20px;
+}
+#underline {
+	color: grey;
+	text-decoration: 2px solid gray;
+}
+.link {
+	color: green;
+}
+.linka {
+	color: orange;
+}
+#content {
+	height: 200px;
+}
+#left {
+	height: 100%;
+	float: left;
+	width: 60%;
+	margin-right: 5px;
+	border-right: 2px solid orange;
+}
+#top {
+	padding-left: 40px;
+	padding-right: 5px;
+	padding-bottom: 40px;
+}
+#right {
+	width: 39%;
+	float: right;
+	margin-left: 5px;
+}
+h5 {
+	color: green;
+}
+#footer {
+	text-align: right;
+	border-top: 2px solid orange;
+	margin-top: 70px;
+} 
