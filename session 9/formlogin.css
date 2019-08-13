@@ -41,6 +41,7 @@ input {
 	border-right-color:transparent;
 	border-bottom:2px solid white;
 }
+
 button {
 	width: 300px;
 	height: 50px;
@@ -98,6 +99,9 @@ button {
 .logogg button p {
 	float: left;
 	margin: 10px 10px 10px 40px;
+}
+.margin {
+	margin-top: 10px;
 }
 .footer {
 	color: white;
