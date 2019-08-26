@@ -88,3 +88,7 @@ while (soKeo < 50) {
 }
 
 document.write('So dola ton de mua 50 keo la: ' + soDola);
+
+
+
+

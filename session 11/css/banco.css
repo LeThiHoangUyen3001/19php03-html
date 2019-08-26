@@ -1,0 +1,16 @@
+body {
+	margin-left: 500px;
+	float: center;
+}
+.black {
+	width: 20px;
+	height: 20px;
+	background: black;
+	display: inline-block;
+}
+.white {
+	width: 20px;
+	height: 20px;
+	background: white;
+	display: inline-block;
+}
